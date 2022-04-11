@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": 1, "fname": "aman", "lname": "kumar","mobile":8360105386,"fatherFirstName":"Binod","fatherLastName":"Kumar","fatherMobileNumber":1123456789 }
+  ],
+  "marks": [
+    { "sub":"hindi","marks":100 }
+  ],
+  "course": { "cName": "coding" },
+  "address":[{"village":"narsar","post":"arga","via":"baheri","district":"darbhanga","state":"bihar","pincode":847105}]
+}
